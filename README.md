@@ -1,4 +1,4 @@
-# Challenge 1: Processing Pipeline
+# Processing Pipeline
 
 ## Project Purpose
 
